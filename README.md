@@ -1,6 +1,6 @@
 # 🌲 Sámi Home Recipe Generator
 
-A happy Python project — traditional Sámi recipes from ingredients you already have at home.
+A happy Python project - traditional Sámi recipes from ingredients you already have at home.
 
 ### 
 The Sámi are the indigenous people of Sápmi (northern parts of Norway, Sweden, Finland, and Russia).  
