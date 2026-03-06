@@ -23,4 +23,4 @@ This program helps you discover real Sámi dishes using only what you already ha
 
 ####################
 
-Part of my Happy Python Projects Collection
+Part of my Happy Python Projects Collection 🌲
