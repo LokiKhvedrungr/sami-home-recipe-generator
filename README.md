@@ -18,7 +18,7 @@ This program helps you discover real Sámi dishes using only what you already ha
 ### How to run
 1. Download ZIP or clone repo
 2. Open Terminal
-3. cd into the folder sami-home-recipe-generator
+3. cd into the folder sami-home-recipe-generator/src
 4. python3 main.py
 
 ####################
